@@ -1,0 +1,9 @@
+body {
+    color: #FFFF;
+    background: #474747;
+    height: 50px;
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    border-radius: 7px;
+}
